@@ -28,8 +28,6 @@ Los usuarios pueden:
 - 💜 **Comentar y dar like** a contenido
 - 📄 Descargar **contratos PDF** automáticos al comprar
 
-> 🎓 Este es un **Proyecto Intermodular de Grado Superior** desarrollado como entrega académica final.
-
 ---
 
 ## 🏗️ Arquitectura
