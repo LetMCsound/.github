@@ -119,16 +119,6 @@ main          ← producción estable
 
 ---
 
-## 👤 Autor
 
-**Martín** — Estudiante de Grado Superior
 
-Proyecto desarrollado como entrega final de DAW.
 
----
-
-<div align="center">
-
-**Hecho con 💜 y mucho café**
-
-</div>
